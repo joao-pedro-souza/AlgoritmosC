@@ -1,5 +1,4 @@
 /* Escreva um programa que leia um número inteiro e apresente seu antecessor e sucessor */
-
 #include <stdio.h>
 
 int main(void)
