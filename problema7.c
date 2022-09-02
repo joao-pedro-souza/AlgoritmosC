@@ -34,5 +34,4 @@ int main(void)
                 else
                     printf("170,00");
     return (0);
-
 }
