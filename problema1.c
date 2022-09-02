@@ -14,4 +14,5 @@ int main(void)
 
     printf("O antecessor de %i e %i.\n", num, ant);
     printf("O sucessor de %i e %i.\n", num, suc);
+    return (0);
 }
