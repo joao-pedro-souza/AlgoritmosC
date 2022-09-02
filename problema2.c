@@ -1,5 +1,4 @@
 /* Elabore um programa que receba quatro notas e calcule a média aritmética entre elas. */
-
 #include <stdio.h>
 
 int main(void)
