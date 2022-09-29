@@ -38,5 +38,6 @@ while (cod != 0)
 }
 printf("Aprovados: %d\n", aprovados);
 printf("Reprovados: %d\n", reprovados);
+return (0);
 }
 
