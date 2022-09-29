@@ -8,7 +8,7 @@ int main(void)
     int n;
 
     printf("Digite sua idade: ");
-    scanf("%i", &n);
+    scanf("%d", &n);
 
     if (n < 16)
         printf("Nao eleitor.");
