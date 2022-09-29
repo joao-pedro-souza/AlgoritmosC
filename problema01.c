@@ -6,12 +6,12 @@ int main(void)
     int num, ant, suc;
 
     printf("Digite um numero: ");
-    scanf("%i", &num);
+    scanf("%d", &num);
 
     ant = num - 1;
     suc = num + 1;
 
-    printf("O antecessor de %i e %i.\n", num, ant);
-    printf("O sucessor de %i e %i.\n", num, suc);
+    printf("O antecessor de %d e %d.\n", num, ant);
+    printf("O sucessor de %d e %d.\n", num, suc);
     return (0);
 }
