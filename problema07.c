@@ -15,7 +15,7 @@ int main(void)
     printf("Informe seu nome: ");
     scanf("%s", &nome);
     printf("Informe sua idade: ");
-    scanf("%i", &idade);
+    scanf("%d", &idade);
     printf("Nome: %s\n", nome);
     printf("Idade: %d\n", idade);
     printf("Mensalidade do plano de saude: R$");
