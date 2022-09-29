@@ -1,3 +1,5 @@
+/* Programa que pede número de notas de uma disciplina, notas e calcula o número de aprovados e reprovados com a média 
+maior ou igual a 6. O programa pede o código do aluno, e encerra quando o código for igual a 0.*/
 #include <stdio.h>
 
 int main(void) 
