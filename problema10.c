@@ -12,9 +12,9 @@ int main(void)
     int prato, bebida;
     int total = 0;
     printf("Escolha um prato:\nItaliano [1]\nJapones [2]\nSalvadorenho [3]\n");
-    scanf("%i", &prato);
+    scanf("%d", &prato);
     printf("Escolha uma bebida:\nCha [1]\nSuco de laranja [2]\nRefrigerante[3]\n");
-    scanf("%i", &bebida);
+    scanf("%d", &bebida);
 
     switch(prato)
     {
@@ -36,6 +36,6 @@ int main(void)
         break;
     }
 
-    printf("O total de calorias e de: %i", total);
+    printf("O total de calorias e de: %d", total);
     return (0);
 }
