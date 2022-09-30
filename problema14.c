@@ -1,3 +1,4 @@
+/* Elabore um programa que apresente todos os números divisíveis por três que sejam menores que 100. */
 #include <stdio.h>
 
 int main(void)
