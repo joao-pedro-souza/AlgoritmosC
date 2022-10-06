@@ -25,4 +25,5 @@ int main(void)
 
     printf("Idade: %.f\n", media_idade);
     printf("Altura: %.2f\n", media_altura);
+    return (0);
 }
