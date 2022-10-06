@@ -8,6 +8,7 @@ int main(void)
     int c;
     float salario, soma_salario, media_salario, maior_salario, filhos, soma_filhos, media_filhos;
     c = 0;
+    
     printf("Salario: ");
     scanf("%f", &salario);
     while (salario != -1) 
